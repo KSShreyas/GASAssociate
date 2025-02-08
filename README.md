@@ -11,6 +11,8 @@
 
 This is the source code for for the Plugin GAS Associate, that is supposed to make your life easier while using Unreal's Gameplay Ability System.
 
+Update to Unreal 5.5
+
 
 ### Information:
 
